@@ -7,3 +7,6 @@ pip install requests
 
 # Run
 python3 finder.py -h
+
+# inspiration
+https://github.com/varelsecurity
